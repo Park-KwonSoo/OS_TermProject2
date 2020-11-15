@@ -1,0 +1,2 @@
+C:\Users\black\Desktop\Dev\C++\HW2_OS_Scheduling\Scheduling\Debug\Scheduling.exe
+C:\Users\black\Desktop\Dev\C++\HW2_OS_Scheduling\Scheduling\Debug\Scheduling.pdb
